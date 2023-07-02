@@ -1,0 +1,5 @@
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Persistence\obj\Debug\net7.0\QuestionnaireAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Persistence\obj\Debug\net7.0\QuestionnaireAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Persistence\obj\Debug\net7.0\QuestionnaireAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Persistence\obj\Debug\net7.0\QuestionnaireAPI.Persistence.AssemblyInfo.cs
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Persistence\obj\Debug\net7.0\QuestionnaireAPI.Persistence.csproj.CoreCompileInputs.cache

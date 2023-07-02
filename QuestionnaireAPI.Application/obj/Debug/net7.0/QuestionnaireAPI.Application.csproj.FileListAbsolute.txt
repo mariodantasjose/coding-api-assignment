@@ -1,0 +1,15 @@
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.AssemblyInfo.cs
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\bin\Debug\net7.0\QuestionnaireAPI.Application.deps.json
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\bin\Debug\net7.0\QuestionnaireAPI.Application.dll
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\bin\Debug\net7.0\QuestionnaireAPI.Application.pdb
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\bin\Debug\net7.0\QuestionnaireAPI.Domain.dll
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\bin\Debug\net7.0\QuestionnaireAPI.Domain.pdb
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.csproj.CopyComplete
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.dll
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\refint\QuestionnaireAPI.Application.dll
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\QuestionnaireAPI.Application.pdb
+C:\Users\mldj8\source\repos\QuestionnaireAPI\QuestionnaireAPI.Application\obj\Debug\net7.0\ref\QuestionnaireAPI.Application.dll

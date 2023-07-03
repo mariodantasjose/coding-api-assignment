@@ -2,8 +2,8 @@
 {
     public enum ItemType
     {
-        Question = 0,
-        Answer = 1,
-        FreeText = 2
+        Subject = 0,
+        Question = 1,
+        Answer = 2
     }
 }
